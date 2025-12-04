@@ -37,7 +37,7 @@
 ### 📫 How to Reach Me
 
 - 📧 Email:arshadtk767@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/arshad-tk-2b1905369)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/arshad-tk-2b1905369?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
 - 💻 [instagram](https://www.instagram.com/ars_ha._dddd?igsh=OGJ5cnNqOWxoemoz)  
 
 ---
