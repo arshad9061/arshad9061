@@ -1,156 +1,116 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001100,100:00ff41&height=200&section=header&text=Arshad%20TK&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Specialist%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descAlignY=58&descSize=18&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Arshad%20TK&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Specialist%20%7C%20Ethical%20Hacker&descAlignY=58&descSize=18&descColor=dddddd"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%F0%9F%94%90+Ethical+Hacker+%26+Penetration+Tester;%F0%9F%90%9B+Bug+Bounty+Hunter;%F0%9F%9A%A9+CTF+Player+%7C+HackTheBox+%7C+TryHackMe;%F0%9F%A6%A0+Malware+Analyst;%F0%9F%9B%A1%EF%B8%8F+Defender+of+Digital+Worlds;%3E+whoami+--+ArshadTK_0x01" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Penetration+Tester+%F0%9F%94%90;CTF+Player+%7C+Bug+Bounty+Hunter+%F0%9F%90%9B;Malware+Analyst+%F0%9F%A6%A0;Ethical+Hacker+%7C+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
-<!-- Badges Row -->
 <a href="https://www.linkedin.com/in/arshad-tk">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Arshad%20TK-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-red?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=arshadtk&label=Profile+Views&color=00ff41&style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=arshadtk&style=flat-square&label=Profile+Views"/>
 
 </div>
 
 ---
 
-<div align="center">
+## 👤 About Me
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   ██████╗ ██████╗ ███████╗ █████╗  ██████╗              ║
-║  ██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗              ║
-║  ███████║██████╔╝███████╗███████║██║  ██║              ║
-║  ██╔══██║██╔══██╗╚════██║██╔══██║██║  ██║              ║
-║  ██║  ██║██║  ██║███████║██║  ██║╚██████╔╝  T K        ║
-║  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝             ║
-║                                                          ║
-║  > Ethical Hacker  > Pentester  > Bug Hunter            ║
-║  > CTF Player      > Malware Analyst                    ║
-║  > "Hack to Protect, Not to Destroy"                    ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
 class ArshadTK:
-    def __init__(self):
-        self.name       = "Arshad TK"
-        self.role       = "Cybersecurity Specialist"
-        self.location   = "Kerala, India 🇮🇳"
-        self.focus      = [
-            "Penetration Testing",
-            "CTF Challenges",
-            "Bug Bounty Hunting",
-            "Malware Analysis",
-        ]
-        self.motto = "Hack to Protect 🛡️"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's secure the web 🔐")
-
-me = ArshadTK()
-me.say_hi()
+    name      = "Arshad TK"
+    role      = "Cybersecurity Specialist"
+    location  = "Kerala, India 🇮🇳"
+    focus     = [
+        "Penetration Testing",
+        "CTF Challenges",
+        "Bug Bounty Hunting",
+        "Malware Analysis",
+    ]
+    motto     = "Hack to Protect, Not to Destroy 🛡️"
 ```
 
 <br clear="right"/>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> My Arsenal
+## 🛠️ Tools & Technologies
 
-### 🔴 Offensive Security & Exploitation
-<p>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nikto-8B0000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hydra-1a1a1a?style=for-the-badge&logoColor=lime"/>
-<img src="https://img.shields.io/badge/John_The_Ripper-333?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hashcat-FF4500?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gobuster-00875A?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/ffuf-purple?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wfuzz-006400?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/BeEF-brown?style=for-the-badge&logoColor=white"/>
-</p>
+**Offensive Security**
 
-### 🔵 Network & Traffic Analysis
-<p>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tcpdump-003399?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Masscan-DC143C?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Aircrack--ng-CC0000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenVAS-00925A?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shodan-AA0000?style=for-the-badge&logoColor=white"/>
-</p>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=flat-square&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-8B0000?style=flat-square&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-333333?style=flat-square&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-555555?style=flat-square&logoColor=white)
+![John The Ripper](https://img.shields.io/badge/John_The_Ripper-444444?style=flat-square&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-2E7D32?style=flat-square&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-6A1B9A?style=flat-square&logoColor=white)
+![BeEF](https://img.shields.io/badge/BeEF-5D4037?style=flat-square&logoColor=white)
 
-### 🟡 Forensics, Malware & Reverse Engineering
-<p>
-<img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Volatility-6A0DAD?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Autopsy-5A5A5A?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Binwalk-0066CC?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/IDA_Pro-gray?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/x64dbg-orange?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/YARA-663399?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Any.run-00B4D8?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cuckoo_Sandbox-4B0082?style=for-the-badge&logoColor=white"/>
-</p>
+**Network & Traffic Analysis**
 
-### 🟢 OSINT & Reconnaissance
-<p>
-<img src="https://img.shields.io/badge/Maltego-00587A?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/theHarvester-228B22?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Recon--ng-8B4513?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spiderfoot-2F4F4F?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Dorks-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004088?style=flat-square&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-212121?style=flat-square&logoColor=white)
+![Tcpdump](https://img.shields.io/badge/Tcpdump-1A237E?style=flat-square&logoColor=white)
+![Masscan](https://img.shields.io/badge/Masscan-B71C1C?style=flat-square&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-880000?style=flat-square&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00ADEF?style=flat-square&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-388E3C?style=flat-square&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-AA0000?style=flat-square&logoColor=white)
 
-### ⚙️ Languages & Scripting
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
+**Forensics, Malware & Reverse Engineering**
+
+![Ghidra](https://img.shields.io/badge/Ghidra-C62828?style=flat-square&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-6A0DAD?style=flat-square&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-424242?style=flat-square&logoColor=white)
+![Binwalk](https://img.shields.io/badge/Binwalk-0D47A1?style=flat-square&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-546E7A?style=flat-square&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-E65100?style=flat-square&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-4A148C?style=flat-square&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logoColor=white)
+![Any.run](https://img.shields.io/badge/Any.run-0288D1?style=flat-square&logoColor=white)
+![Cuckoo Sandbox](https://img.shields.io/badge/Cuckoo_Sandbox-4527A0?style=flat-square&logoColor=white)
+
+**OSINT & Reconnaissance**
+
+![Maltego](https://img.shields.io/badge/Maltego-01579B?style=flat-square&logoColor=white)
+![theHarvester](https://img.shields.io/badge/theHarvester-2E7D32?style=flat-square&logoColor=white)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-4E342E?style=flat-square&logoColor=white)
+![Spiderfoot](https://img.shields.io/badge/Spiderfoot-263238?style=flat-square&logoColor=white)
+![Google Dorks](https://img.shields.io/badge/Google_Dorks-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-## 🎯 Expertise Matrix
+## 🎯 Areas of Expertise
 
-<div align="center">
-
-| 🔴 Red Team | 🔵 Blue Team | 🏴 CTF | 🐛 Bug Bounty |
-|:---:|:---:|:---:|:---:|
-| Web App Pentesting | Threat Analysis | Forensics | Recon & Enum |
-| Network Exploitation | Incident Response | Cryptography | XSS / SQLi |
-| Privilege Escalation | Log Analysis | Steganography | IDOR / SSRF |
-| Post-Exploitation | Malware Defense | Binary Exploitation | Business Logic |
-| Social Engineering | SIEM / IDS/IPS | Reverse Engineering | Report Writing |
-
-</div>
+| Domain | Skills |
+|---|---|
+| 🌐 Web Security | SQL Injection, XSS, CSRF, IDOR, SSRF |
+| 🔒 Network Security | Port Scanning, Sniffing, MitM, Firewall Bypass |
+| 🐧 Linux | Privilege Escalation, Shell Scripting, Hardening |
+| 🕵️ OSINT | Reconnaissance, Footprinting, Social Engineering |
+| 🏴 CTF | Forensics, Cryptography, Steganography, PWN |
+| 🐛 Bug Bounty | Vulnerability Research, Responsible Disclosure |
 
 ---
 
@@ -158,46 +118,26 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arshadtk&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_radius=10" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadtk&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_radius=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arshadtk&show_icons=true&theme=default&hide_border=true&border_radius=8" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadtk&layout=compact&theme=default&hide_border=true&border_radius=8" height="165"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arshadtk&theme=matrix&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff&border_radius=10" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=arshadtk&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arshadtk&theme=default&hide_border=true&border_radius=8"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arshadtk/arshadtk/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arshadtk/arshadtk/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/arshadtk/arshadtk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arshadtk/arshadtk/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arshadtk/arshadtk/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arshadtk/arshadtk/output/github-snake.svg"/>
 </picture>
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🥷 | Achievement |
-|:---:|---|
-| 🎯 | Active CTF competitor on **HackTheBox** & **TryHackMe** |
-| 🐛 | Responsible vulnerability disclosure — **Bug Bounty Hunter** |
-| 🔬 | Hands-on **Malware Analysis** & reverse engineering experience |
-| 🛡️ | Skilled in both **Red Team** and **Blue Team** operations |
-| 📖 | Continuous learner — always chasing the next exploit |
-
 </div>
 
 ---
@@ -207,7 +147,7 @@ me.say_hi()
 <div align="center">
 
 <a href="https://www.linkedin.com/in/arshad-tk">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:youremail@gmail.com">
@@ -215,11 +155,11 @@ me.say_hi()
 </a>
 &nbsp;
 <a href="https://tryhackme.com/p/arshadtk">
-  <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://app.hackthebox.com/profile/arshadtk">
-  <img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
 
 </div>
@@ -227,11 +167,5 @@ me.say_hi()
 ---
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20quieter%20you%20become%2C%20the%20more%20you%20are%20able%20to%20hear&author=Kali%20Linux" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=100&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
