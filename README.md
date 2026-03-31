@@ -7,6 +7,8 @@
 ██╔══██║██╔══██╗╚════██║██╔══██║██╔══██║██║  ██║
 ██║  ██║██║  ██║███████║██║  ██║██║  ██║██████╔╝
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
+
+
 - 🛡 Studying Advanced Diploma in Cybersecurity at Offenso Hackers Academy  
 -  – Wi-Fi Attack Detection Device  
 - 🔐 Learning practical hacking via OverTheWire, **PortSwigger Labs, and **Burp Suite
